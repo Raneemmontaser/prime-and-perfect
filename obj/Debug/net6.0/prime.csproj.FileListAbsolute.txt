@@ -1,0 +1,15 @@
+C:\Users\ranee\source\repos\prime\bin\Debug\net6.0\prime.exe
+C:\Users\ranee\source\repos\prime\bin\Debug\net6.0\prime.deps.json
+C:\Users\ranee\source\repos\prime\bin\Debug\net6.0\prime.runtimeconfig.json
+C:\Users\ranee\source\repos\prime\bin\Debug\net6.0\prime.dll
+C:\Users\ranee\source\repos\prime\bin\Debug\net6.0\prime.pdb
+C:\Users\ranee\source\repos\prime\obj\Debug\net6.0\prime.csproj.AssemblyReference.cache
+C:\Users\ranee\source\repos\prime\obj\Debug\net6.0\prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranee\source\repos\prime\obj\Debug\net6.0\prime.AssemblyInfoInputs.cache
+C:\Users\ranee\source\repos\prime\obj\Debug\net6.0\prime.AssemblyInfo.cs
+C:\Users\ranee\source\repos\prime\obj\Debug\net6.0\prime.csproj.CoreCompileInputs.cache
+C:\Users\ranee\source\repos\prime\obj\Debug\net6.0\prime.dll
+C:\Users\ranee\source\repos\prime\obj\Debug\net6.0\refint\prime.dll
+C:\Users\ranee\source\repos\prime\obj\Debug\net6.0\prime.pdb
+C:\Users\ranee\source\repos\prime\obj\Debug\net6.0\prime.genruntimeconfig.cache
+C:\Users\ranee\source\repos\prime\obj\Debug\net6.0\ref\prime.dll
